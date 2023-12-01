@@ -4,6 +4,6 @@ Traethlin (shoreline in Welsh) is the rover we (some members of the Intelligent 
 
 You'll find here code, scripts and documentation to setup the rover.  The code of CRANC is at https://github.com/Aber-CRANC.
 
-If you are interested, drop us a line (mailto:cs-robotics@aber.ac.uk?subject=Traethlin).
+If you are interested, drop us a [line](mailto:cs-robotics@aber.ac.uk?subject=Traethlin).
 
 More later...
